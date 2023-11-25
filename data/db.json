@@ -1,0 +1,48 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Resta",
+      "nim": "21/481666/SV/19831",
+      "kelas": "B",
+      "icon": "democrat",
+      "color": "#FA7070"
+    },
+    {
+      "nama": "Ayu",
+      "nim": "21/481677",
+      "kelas": "B",
+      "jeniskelamin": "Pr",
+      "color": "#3EC70B",
+      "icon": "seedling",
+      "id": 4
+    },
+    {
+      "nama": "Miho",
+      "nim": "21/481677",
+      "kelas": "B",
+      "jeniskelamin": "Pr",
+      "color": "#1640D6",
+      "icon": "snowflake",
+      "id": 5
+    },
+    {
+      "nama": "Zuyi",
+      "nim": "21/481672/SV/19834",
+      "kelas": "B",
+      "jeniskelamin": "Pr",
+      "color": "#FFC436",
+      "icon": "crown",
+      "id": 6
+    },
+    {
+      "nama": "Teta",
+      "nim": "21/481666/SV/19831",
+      "kelas": "B",
+      "jeniskelamin": "Pr",
+      "color": "#E4508F",
+      "icon": "dove",
+      "id": 7
+    }
+  ]
+}
